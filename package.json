@@ -1,0 +1,17 @@
+{
+  "name": "07.webservernode.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "_App.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Learning",
+    "Node.js"
+  ],
+  "author": "Carpentier, Joshua",
+  "license": "ISC"
+}
